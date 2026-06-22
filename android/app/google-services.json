@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661889907814",
+    "project_id": "app-explorer-city",
+    "storage_bucket": "app-explorer-city.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661889907814:android:3310197d4db269883101a7",
+        "android_client_info": {
+          "package_name": "com.example.explorer_city_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkxZJ1TiEqCisiEpHULHpni_TDv7iBkgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
