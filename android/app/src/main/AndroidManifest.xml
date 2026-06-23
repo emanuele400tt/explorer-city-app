@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="explorer_city_app"
+        android:label="Explorer city"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
