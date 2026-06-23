@@ -21,7 +21,10 @@ A dynamic and responsive Flutter application built to showcase beautiful Italian
 2. Install dependencies 
     ```bash
     flutter pub get
-3. Run the app 
+3. Configure Firebase (required)
+    ```bash
+    flutterfire configure
+4. Run the app 
     ```bash
     flutter run
 
@@ -48,6 +51,9 @@ Un'applicazione Flutter dinamica e responsiva creata per esplorare le più belle
 2. Installa le dipendenze 
     ```bash
     flutter pub get
-3. Avvia l'app
+3. Configurazione firebase (necessario)
+    ```bash
+    flutterfire configure
+4. Avvia l'app
     ```bash
     flutter run
