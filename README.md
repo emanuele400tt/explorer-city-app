@@ -28,6 +28,29 @@ A dynamic and responsive Flutter application built to showcase beautiful Italian
     ```bash
     flutter run
 
+## App Preview
+## Android ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+| <img src="screenshots/Screenshot_20260623-135935.png" width="250"/> 
+| <img src="screenshots/Screenshot_20260623-135942.png" width="250"/> 
+| <img src="screenshots/Screenshot_20260623-135947.png" width="250"/> 
+| <img src="screenshots/Screenshot_20260623-135957.png" width="250"/> |
+
+
+## Linux ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| <img src="screenshots/Screenshot from 2026-06-23 14-34-52.png" width="250"/> 
+| <img src="screenshots/Screenshot from 2026-06-23 14-34-59.png" width="250"/> 
+| <img src="screenshots/Screenshot from 2026-06-23 14-35-05.png" width="250"/> 
+| <img src="screenshots/Screenshot from 2026-06-23 14-36-49.png" width="250"/> |
+
+
+## Chrome ![Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+| <img src="screenshots/Screenshot from 2026-06-23 14-28-32.png" width="250"/> 
+| <img src="screenshots/Screenshot from 2026-06-23 14-28-46.png" width="250"/> 
+| <img src="screenshots/Screenshot from 2026-06-23 14-28-54.png" width="250"/> 
+| <img src="screenshots/Screenshot from 2026-06-23 14-38-46.png" width="250"/> |
+
+
 # Versione Italiana
 
 Un'applicazione Flutter dinamica e responsiva creata per esplorare le più belle città italiane. Sviluppata come progetto centrale durante un'Academy per sviluppatori Android, questa app mette in luce l'utilizzo di interfacce moderne, la gestione dello stato e l'integrazione con database in cloud.
