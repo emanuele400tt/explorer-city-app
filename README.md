@@ -14,6 +14,25 @@ A dynamic and responsive Flutter application built to showcase beautiful Italian
 * **Backend / Database:** Firebase Cloud Firestore
 * **Architecture:** Component-based UI with decoupled widgets.
 
+
+## App Preview
+## Android ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<img src="screenshots/Screenshot_20260623-135935.png" width="250"/> <img src="screenshots/Screenshot_20260623-135942.png" width="250"/> <img src="screenshots/Screenshot_20260623-135947.png" width="250"/> <img src="screenshots/Screenshot_20260623-135957.png" width="250"/> 
+
+
+## Linux ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="screenshots/Screenshot from 2026-06-23 14-34-52.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-34-59.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-35-05.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-36-49.png" width="500"/> 
+
+
+## Chrome ![Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+<img src="screenshots/Screenshot from 2026-06-23 14-28-32.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-28-46.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-28-54.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-38-46.png" width="500"/> 
+
+## 📌 Project Status
+
+> **Maintenance Notice:** This application is a *showcase* project developed for portfolio and technical demonstration purposes. The source code is complete and the app is fully functional, but the repository is **not actively maintained**. Future changes by external API providers (e.g., weather services) may affect data fetching. Feel free to explore the code or test the app via the releases!
+
+---
+
 ## 🚀 How to run the project
 1. Clone the repository:
    ```bash
@@ -28,26 +47,37 @@ A dynamic and responsive Flutter application built to showcase beautiful Italian
     ```bash
     flutter run
 
-## App Preview
-## Android ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-<img src="screenshots/Screenshot_20260623-135935.png" width="250"/> <img src="screenshots/Screenshot_20260623-135942.png" width="250"/> <img src="screenshots/Screenshot_20260623-135947.png" width="250"/> <img src="screenshots/Screenshot_20260623-135957.png" width="250"/> 
+## 📌 Project Status
 
-
-## Linux ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<img src="screenshots/Screenshot from 2026-06-23 14-34-52.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-34-59.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-35-05.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-36-49.png" width="500"/> 
-
-
-## Chrome ![Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-<img src="screenshots/Screenshot from 2026-06-23 14-28-32.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-28-46.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-28-54.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-38-46.png" width="500"/> 
-
-
-# Versione Italiana
-
-## 📌 Stato del Progetto
-
-> **Avviso di Manutenzione:** Questa applicazione è un progetto *showcase* sviluppato a scopo di portfolio e dimostrazione tecnica. Il codice sorgente è completo e l'app è funzionante, ma il repository **non è attivamente mantenuto**. Eventuali modifiche future da parte dei provider delle API esterne (es. i servizi meteo) potrebbero influire sul caricamento dei dati. Sentiti libero di esplorare il codice o testare l'app tramite le release!
+> **Maintenance Notice:** This application is a *showcase* project developed for portfolio and technical demonstration purposes. The source code is complete and the app is fully functional, but the repository is **not actively maintained**. Future changes by external API providers (e.g., weather services) may affect data fetching. Feel free to explore the code or test the app via the releases!
 
 ---
+
+## 🚀 Download and Installation
+
+You can test the application directly on your device without having to build the code from source. Visit the **[Releases](https://github.com/emanuele400tt/explorer-city-app/releases)** section of this repository to download the latest available version.
+
+### 📱 Android
+1. Download the `app-release.apk` file to your smartphone.
+2. Tap the downloaded file to start the installation. 
+3. *Note:* Since this app is downloaded outside of the Google Play Store, your device might ask for permission to "install unknown apps". Confirm to proceed.
+
+### 🐧 Linux
+1. Download the compressed archive `weather-app-linux.zip`.
+2. Extract the entire folder to your computer (e.g., on your Desktop).
+3. Open the extracted folder and double-click the application executable to launch it. 
+   *⚠️ Warning: Do not move the single executable file outside of its folder, as it requires the adjacent libraries and assets to run properly.*
+
+### 🌐 Web Version
+*(Se hai caricato i file su un hosting o su GitHub Pages usa questa riga:)*
+Don't want to download anything? You can try the app directly from your browser! 
+👉 **[Click here to launch the Live Demo](INSERT_SITE_LINK_HERE)**
+
+*(Se invece hai caricato lo zip nella release, usa queste righe:)*
+1. Download the `weather-app-web.zip` archive and extract the folder.
+2. *⚠️ Warning:* Due to modern browser security restrictions (CORS policy), you cannot run the app by simply double-clicking the `index.html` file. You need to serve it via a local web server (e.g., using the *Live Server* extension in VS Code or a Python HTTP server) pointing to the extracted folder.
+
+# Versione Italiana
 
 Un'applicazione Flutter dinamica e responsiva creata per esplorare le più belle città italiane. Sviluppata come progetto centrale durante un'Academy per sviluppatori Android, questa app mette in luce l'utilizzo di interfacce moderne, la gestione dello stato e l'integrazione con database in cloud.
 
@@ -77,6 +107,12 @@ Un'applicazione Flutter dinamica e responsiva creata per esplorare le più belle
     ```bash
     flutter run
 
+
+## 📌 Stato del Progetto
+
+> **Avviso di Manutenzione:** Questa applicazione è un progetto *showcase* sviluppato a scopo di portfolio e dimostrazione tecnica. Il codice sorgente è completo e l'app è funzionante, ma il repository **non è attivamente mantenuto**. Eventuali modifiche future da parte dei provider delle API esterne (es. i servizi meteo) potrebbero influire sul caricamento dei dati. Sentiti libero di esplorare il codice o testare l'app tramite le release!
+
+---
     
 ## 🚀 Download e Installazione
 
