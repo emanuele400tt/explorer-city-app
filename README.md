@@ -27,11 +27,6 @@ A dynamic and responsive Flutter application built to showcase beautiful Italian
 ## Chrome ![Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 <img src="screenshots/Screenshot from 2026-06-23 14-28-32.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-28-46.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-28-54.png" width="500"/> <img src="screenshots/Screenshot from 2026-06-23 14-38-46.png" width="500"/> 
 
-## 📌 Project Status
-
-> **Maintenance Notice:** This application is a *showcase* project developed for portfolio and technical demonstration purposes. The source code is complete and the app is fully functional, but the repository is **not actively maintained**. Future changes by external API providers (e.g., weather services) may affect data fetching. Feel free to explore the code or test the app via the releases!
-
----
 
 ## 🚀 How to run the project
 1. Clone the repository:
@@ -58,12 +53,12 @@ A dynamic and responsive Flutter application built to showcase beautiful Italian
 You can test the application directly on your device without having to build the code from source. Visit the **[Releases](https://github.com/emanuele400tt/explorer-city-app/releases)** section of this repository to download the latest available version.
 
 ### 📱 Android
-1. Download the `app-release.apk` file to your smartphone.
+1. Download the `explorer-city.apk` file to your smartphone.
 2. Tap the downloaded file to start the installation. 
 3. *Note:* Since this app is downloaded outside of the Google Play Store, your device might ask for permission to "install unknown apps". Confirm to proceed.
 
 ### 🐧 Linux
-1. Download the compressed archive `weather-app-linux.zip`.
+1. Download the compressed archive `explorer-city-linux.zip`.
 2. Extract the entire folder to your computer (e.g., on your Desktop).
 3. Open the extracted folder and double-click the application executable to launch it. 
    *⚠️ Warning: Do not move the single executable file outside of its folder, as it requires the adjacent libraries and assets to run properly.*
@@ -74,7 +69,7 @@ Don't want to download anything? You can try the app directly from your browser!
 👉 **[Click here to launch the Live Demo](INSERT_SITE_LINK_HERE)**
 
 *(Se invece hai caricato lo zip nella release, usa queste righe:)*
-1. Download the `weather-app-web.zip` archive and extract the folder.
+1. Download the `explorer-city-web.zip` archive and extract the folder.
 2. *⚠️ Warning:* Due to modern browser security restrictions (CORS policy), you cannot run the app by simply double-clicking the `index.html` file. You need to serve it via a local web server (e.g., using the *Live Server* extension in VS Code or a Python HTTP server) pointing to the extracted folder.
 
 # Versione Italiana
@@ -119,12 +114,12 @@ Un'applicazione Flutter dinamica e responsiva creata per esplorare le più belle
 Puoi testare l'applicazione direttamente sul tuo dispositivo senza dover compilare il codice. Visita la sezione **[Releases](https://github.com/emanuele400tt/explorer-city-app/releases)** di questo repository per scaricare l'ultima versione disponibile.
 
 ### 📱 Android
-1. Scarica il file `app-release.apk` sul tuo smartphone.
+1. Scarica il file `explorer-city.apk` sul tuo smartphone.
 2. Fai tap sul file scaricato per avviare l'installazione. 
 3. *Nota:* Essendo un'app scaricata al di fuori del Google Play Store, il tuo dispositivo potrebbe chiederti l'autorizzazione per "installare app da fonti sconosciute". Conferma per procedere.
 
 ### 🐧 Linux
-1. Scarica l'archivio compresso `weather-app-linux.zip`.
+1. Scarica l'archivio compresso `explorer-city-linux.zip`.
 2. Estrai l'intera cartella sul tuo computer (ad esempio, sul Desktop).
 3. Apri la cartella estratta e fai doppio click sul file eseguibile dell'applicazione per avviarla. 
    *⚠️ Attenzione: non spostare il singolo file eseguibile al di fuori di quella cartella, poiché necessita delle librerie e degli assets adiacenti per funzionare correttamente.*
@@ -135,6 +130,6 @@ Non vuoi scaricare nulla? Puoi provare l'interfaccia dell'app direttamente dal t
 👉 **[Clicca qui per avviare la Live Demo](INSERISCI_QUI_IL_LINK_DEL_SITO)**
 
 *(Se invece hai caricato lo zip nella release, usa queste righe:)*
-1. Scarica l'archivio `weather-app-web.zip` ed estrai la cartella.
+1. Scarica l'archivio `explorer-city-web.zip` ed estrai la cartella.
 2. *⚠️ Attenzione:* A causa delle restrizioni di sicurezza dei browser moderni (CORS), non è possibile eseguire l'app facendo semplicemente doppio click sul file `index.html`. È necessario avviare un server locale (ad es. tramite l'estensione *Live Server* su VS Code o con un server HTTP Python) puntando alla cartella estratta.
     
