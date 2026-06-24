@@ -43,6 +43,12 @@ A dynamic and responsive Flutter application built to showcase beautiful Italian
 
 # Versione Italiana
 
+## 📌 Stato del Progetto
+
+> **Avviso di Manutenzione:** Questa applicazione è un progetto *showcase* sviluppato a scopo di portfolio e dimostrazione tecnica. Il codice sorgente è completo e l'app è funzionante, ma il repository **non è attivamente mantenuto**. Eventuali modifiche future da parte dei provider delle API esterne (es. i servizi meteo) potrebbero influire sul caricamento dei dati. Sentiti libero di esplorare il codice o testare l'app tramite le release!
+
+---
+
 Un'applicazione Flutter dinamica e responsiva creata per esplorare le più belle città italiane. Sviluppata come progetto centrale durante un'Academy per sviluppatori Android, questa app mette in luce l'utilizzo di interfacce moderne, la gestione dello stato e l'integrazione con database in cloud.
 
 ## ✨ Funzionalità Principali
@@ -70,3 +76,29 @@ Un'applicazione Flutter dinamica e responsiva creata per esplorare le più belle
 4. Avvia l'app
     ```bash
     flutter run
+
+    
+## 🚀 Download e Installazione
+
+Puoi testare l'applicazione direttamente sul tuo dispositivo senza dover compilare il codice. Visita la sezione **[Releases](https://github.com/emanuele400tt/explorer-city-app/releases)** di questo repository per scaricare l'ultima versione disponibile.
+
+### 📱 Android
+1. Scarica il file `app-release.apk` sul tuo smartphone.
+2. Fai tap sul file scaricato per avviare l'installazione. 
+3. *Nota:* Essendo un'app scaricata al di fuori del Google Play Store, il tuo dispositivo potrebbe chiederti l'autorizzazione per "installare app da fonti sconosciute". Conferma per procedere.
+
+### 🐧 Linux
+1. Scarica l'archivio compresso `weather-app-linux.zip`.
+2. Estrai l'intera cartella sul tuo computer (ad esempio, sul Desktop).
+3. Apri la cartella estratta e fai doppio click sul file eseguibile dell'applicazione per avviarla. 
+   *⚠️ Attenzione: non spostare il singolo file eseguibile al di fuori di quella cartella, poiché necessita delle librerie e degli assets adiacenti per funzionare correttamente.*
+
+### 🌐 Versione Web
+*(Se hai caricato i file su un hosting o su GitHub Pages usa questa riga:)*
+Non vuoi scaricare nulla? Puoi provare l'interfaccia dell'app direttamente dal tuo browser! 
+👉 **[Clicca qui per avviare la Live Demo](INSERISCI_QUI_IL_LINK_DEL_SITO)**
+
+*(Se invece hai caricato lo zip nella release, usa queste righe:)*
+1. Scarica l'archivio `weather-app-web.zip` ed estrai la cartella.
+2. *⚠️ Attenzione:* A causa delle restrizioni di sicurezza dei browser moderni (CORS), non è possibile eseguire l'app facendo semplicemente doppio click sul file `index.html`. È necessario avviare un server locale (ad es. tramite l'estensione *Live Server* su VS Code o con un server HTTP Python) puntando alla cartella estratta.
+    
