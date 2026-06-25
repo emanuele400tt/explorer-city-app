@@ -65,9 +65,6 @@ You can test the application directly on your device without having to build the
 
 ### 🌐 Web Version
 Don't want to download anything? You can try the app directly from your browser! 
-👉 **[Click here to launch the Live Demo](https://emanuele400tt.github.io/explorer-city-app/)**
-### 🌐 Web Version
-Don't want to download anything? You can try the app directly from your browser! 
 👉 **[Click here to launch the Live Demo](https://emanuele400tt.github.io/crypto-tracker-app/)**
 Alternatively:
 1. Download the `explorer-city-web.zip` archive and extract the folder.
