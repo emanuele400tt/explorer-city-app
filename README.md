@@ -31,7 +31,7 @@ A dynamic and responsive Flutter application built to showcase beautiful Italian
 ## 🚀 How to run the project
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/emanuele400tt/explorer-city-app.git](https://github.com/emanuele400tt/explorer-city-app.git)
+   git clone https://github.com/emanuele400tt/explorer-city-app.git
 2. Install dependencies 
     ```bash
     flutter pub get
@@ -65,7 +65,7 @@ You can test the application directly on your device without having to build the
 
 ### 🌐 Web Version
 Don't want to download anything? You can try the app directly from your browser! 
-👉 **[Click here to launch the Live Demo](https://emanuele400tt.github.io/crypto-tracker-app/)**
+👉 **[Click here to launch the Live Demo](https://emanuele400tt.github.io/explorer-city-app/)**
 Alternatively:
 1. Download the `explorer-city-web.zip` archive and extract the folder.
 2. *⚠️ Warning:* Due to modern browser security restrictions (CORS policy), you cannot run the app by simply double-clicking the `index.html` file. You need to serve it via a local web server (e.g., using the *Live Server* extension in VS Code or a Python HTTP server) pointing to the extracted folder.
@@ -100,7 +100,7 @@ Un'applicazione Flutter dinamica e responsiva creata per esplorare le più belle
 ## 🚀 Come lanciare il progetto
 1. Clonare il repository:
    ```bash
-   git clone [https://github.com/emanuele400tt/explorer-city-app.git](https://github.com/emanuele400tt/explorer-city-app.git)
+   git clone https://github.com/emanuele400tt/explorer-city-app.git
 2. Installa le dipendenze 
     ```bash
     flutter pub get
@@ -134,7 +134,6 @@ Puoi testare l'applicazione direttamente sul tuo dispositivo senza dover compila
    *⚠️ Attenzione: non spostare il singolo file eseguibile al di fuori di quella cartella, poiché necessita delle librerie e degli assets adiacenti per funzionare correttamente.*
 
 ### 🌐 Versione Web
-*(Se hai caricato i file su un hosting o su GitHub Pages usa questa riga:)*
 Non vuoi scaricare nulla? Puoi provare l'interfaccia dell'app direttamente dal tuo browser! 
 👉 **[Clicca qui per avviare la Live Demo](https://emanuele400tt.github.io/explorer-city-app/)**
 Altrimenti:
